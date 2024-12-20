@@ -1,7 +1,7 @@
 ## Hi there 👋
-\nI'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
+I'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
 
-\nHere on Github to document some things I work on and new things I learn. 
+Here on Github to document some things I work on and new things I learn. 
 <!--
 **coopa33/coopa33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
