@@ -5,7 +5,7 @@
 
 Things that I code with:
 <p>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/[python].svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/python.svg" />
 </p>
 
 I'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
