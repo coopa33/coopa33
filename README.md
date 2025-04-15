@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+📊Activities
 <!--START_SECTION:waka-->
 
 ```txt, python, markdown
