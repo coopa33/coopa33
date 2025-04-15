@@ -1,5 +1,23 @@
 ## Hi there 👋
-I'm a Psychology undergraduate at the University of Amsterdam.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+I'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
+
+As part of my study focuses, I have worked on
+- Statistical analysis and inference
+- Model evaluation and validation
+- Machine Learning / Deep Learning
+- Psychometrics
+
+I completed my Bachelor Thesis on the topic "Validating the M4MA pedestrian model".
+
+Current Projects:
+- [Visualizing Logistic Regression decision boundaries in Shiny](https://github.com/coopa33/Logistic-Regression-Boundary-Visualizer)
+
+
+
 <!--
 **coopa33/coopa33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
