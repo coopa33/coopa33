@@ -5,7 +5,10 @@
 
 Things that I code with:
 <p>
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v14/icons/python.svg" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python/white"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/R/white"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vim/white"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white"/>
 </p>
 
 I'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
