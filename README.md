@@ -4,15 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt, python, markdown
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 2 hrs 48 mins
+Total Time: 1 hr 6 mins
 
-Python       2 hrs 13 mins   ███████████████████▓░░░░░   79.15 %
-YAML         15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Text         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Vim Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Python     58 mins         ██████████████████████░░░   87.43 %
+Text       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
