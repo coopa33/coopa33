@@ -37,6 +37,7 @@ I completed my Bachelor Thesis on the topic "Validating the M4MA pedestrian mode
 
 Current Projects:
 - [Visualizing Logistic Regression decision boundaries in Shiny](https://github.com/coopa33/Logistic-Regression-Boundary-Visualizer)
+- [Analyse keywords of book summaries using TF-IDF](https://github.com/coopa33/Book-Keywords-Analysis)
 
 You can reach me via [mail](dan.yu.h97@gmail.com) 
 
