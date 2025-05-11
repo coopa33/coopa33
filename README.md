@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt, python, markdown
-From: 01 May 2025 - To: 08 May 2025
+From: 02 May 2025 - To: 09 May 2025
 
 Total Time: 12 hrs 4 mins
 
