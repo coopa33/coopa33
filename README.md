@@ -3,8 +3,8 @@
 📊 **Activities**
 <!--START_SECTION:waka-->
 
-```txt, python, markdown
-From: 08 May 2025 - To: 15 May 2025
+```txt, python, markdown, r
+From: 09 May 2025 - To: 16 May 2025
 
 Total Time: 9 hrs 39 mins
 
