@@ -4,12 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt, python, markdown, r
-From: 10 May 2025 - To: 17 May 2025
+From: 11 May 2025 - To: 18 May 2025
 
-Total Time: 10 hrs 54 mins
+Total Time: 10 hrs 56 mins
 
-Python     10 hrs 33 mins  ████████████████████████▒   96.70 %
-TOML       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python     10 hrs 31 mins  ████████████████████████░   96.28 %
+TOML       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+HTML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
