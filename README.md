@@ -1,27 +1,6 @@
 ## Hi there 👋
 
-📊 **Activities**
-<!--START_SECTION:waka-->
-
-```txt, python, markdown, r
-From: 26 August 2025 - To: 02 September 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-Things that I code with:
-<p>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python/white"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/R/white"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/vim/white"/>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white"/>
-</p>
-
-I'm a Psychology undergraduate at the University of Amsterdam, specializing in Psychological Methods.
+I'm a Master's student of Artificial Intelligence at the Vrije Universiteit in Amsterdam
 
 As part of my study focuses, I have worked on
 - Statistical analysis and inference
@@ -30,10 +9,6 @@ As part of my study focuses, I have worked on
 - Psychometrics
 
 I completed my Bachelor Thesis on the topic "Validating the M4MA pedestrian model".
-
-Current Projects:
-- [Visualizing Logistic Regression decision boundaries in Shiny](https://github.com/coopa33/Logistic-Regression-Boundary-Visualizer)
-- [Analyse keywords of book summaries using TF-IDF](https://github.com/coopa33/Book-Keywords-Analysis)
 
 You can reach me via [mail](dan.yu.h97@gmail.com) 
 
