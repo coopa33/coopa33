@@ -10,6 +10,8 @@ As part of my study focuses, I have worked on
 
 I completed my Bachelor Thesis on the topic "Validating the M4MA pedestrian model".
 
+Currently I'm volunteering as part of the [JASP](https://github.com/jasp-stats) team. For more information, please visit their website [here](https://jasp-stats.org/)
+
 You can reach me via [mail](dan.yu.h97@gmail.com) 
 
 
